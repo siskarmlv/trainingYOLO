@@ -1,5 +1,4 @@
-classes= 1
-
+classes= 0
 train  = data/train.txt
 
 valid  = data/valid.txt
